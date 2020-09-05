@@ -21,6 +21,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.bmg.empreendemulher",
+      "versionCode": 1
     }
   }
 }
